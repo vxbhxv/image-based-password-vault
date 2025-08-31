@@ -69,6 +69,7 @@ The app should open at http://localhost:3000.
 
 ## API Endpoints
 | Method|Route|Purpose|
+|---|---|---|
 |GET|/api/vault/:imageHash|Check if vault exists|
 |POST|/api/vault/create|Create a new vault|
 |POST|/api/vault/unlock|Unlock an existing vault|
